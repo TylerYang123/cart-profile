@@ -13,7 +13,7 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
+      --color-lightest: #7b52a9;
       --color-light: #ee6c6c;
       --color: #EC6565;
       --color-dark: #ca4e4e;
@@ -123,7 +123,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: #000;
+      background: #8160a0;
       opacity: 0;
       transition: opacity 0.6s ease-in-out;
   }
